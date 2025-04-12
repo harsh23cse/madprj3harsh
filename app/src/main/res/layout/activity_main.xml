@@ -12,8 +12,9 @@
         android:id="@+id/lottieAnimationView"
         android:layout_width="300dp"
         android:layout_height="300dp"
-        app:lottie_fileName="connectionerror.json"
+        app:lottie_fileName="deliveryboy.json"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"
         tools:ignore="MissingClass" />
 
+</LinearLayout>
